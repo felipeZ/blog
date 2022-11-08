@@ -6,7 +6,7 @@ and personal lessons that I have learnt the hard way.
 ## Post
 | Date | Title |
 |-|-|
-| 2021-05-11 | [Code Review Feedback](./posts/code_review_feedback.md) |
+| 2022-11-08 | [Code Review Feedback](./posts/code_review_feedback.md) |
 
 ## Disclaimer
 > This is a personal blog, therefore any views or opinions presented in
