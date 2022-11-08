@@ -14,7 +14,7 @@ I try to keep in the back of my mind the following points when reviewing and rec
 
 ## Pedantic vs Correct
 In my opinion, one of the worst dynamics during code reviewing, is having a pedantic colleague 
-that continuosly point to inconsequential details. Causing the attention to drift from
+that continuosly point to inconsequential details, causing the attention to drift from
 the actual issue or feature that is the subject of a pull requests. So how to avoid being 
 pedantic without neglecting the code quality?
 Firstly, you need to put in place a protocol within your team about using a formatting tool,
@@ -23,7 +23,9 @@ Now, after checking that the code is correct by running the tests
 (or whatever metric you team uses to establish correctness),
 if you are still in doubt about certain functionality that may seem incorrect,
  ask yourself the following question:
-*Can I explain why that piece of code is wrong?*
+
+**Can I explain why that piece of code is wrong?**
+
 If the answer is affirmative and you have a solid argument, then go ahead and communicate it
 to the person proposing the changes, otherwise let it go and avoid entering in a lenghty discussion
 for unimportant details!
